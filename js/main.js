@@ -1,31 +1,5 @@
 /* ================================================
-Template Name: KOPAX. 
-Template URI: http://themewrapper.com/themes/kopax-preview/
-Description: Creative Multipurpose HTML5 Template
-Author: ThemeWrapper
-Author URI: https://themeforest.net/user/themewrapper
-Version: 1.0
-===================================================
 
-=== JS INDEX ===
-1.SCROLLSPY
-2.AUTO HIDING NAVBAR
-3.SMOOTH SCROLLING
-4.BACK TO TOP
-5.MAGNIFIC POPUP LIGHTBOX IMAGE GALLERY
-6.HOME 2 HERO CAROUSEL
-7.TESTIMONIAL CAROUSEL
-8.FEATURED CLIENTS CAROUSEL
-9.ABOUT PAGE CAROUSEL
-10.SERVICE PAGE CAROUSEL
-11.PORTFOLIO DETAILS PAGE CAROUSEL
-12.WOW JS
-13.PORTFOLIO SECTION MASONARY
-14.BLOG SECTION MASONARY
-15.NAVIGATION HIDE ON SCROLL ON MOBILE SCREEN
-16.COUNTER UP
-17.JQUERY SITE PRELOADED ANIMATION
-18.YOUTUBE VIDEO BACKGROUND
 
 ================================================ */
 

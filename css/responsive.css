@@ -63,7 +63,7 @@
         margin-top: 11px;
     }
     .navbar-toggle .icon-bar {
-        background-color: #f01e4a;
+        background-color: #63bc46;
         border-radius: 50px;
         display: block;
         height: 3px;
@@ -117,6 +117,9 @@
     .section-heading > h1 {
         font-size: 36px;
     }
+    .social-menu{
+        text-align: center;
+    }
     .social-menu a {
         font-size: 16px;
         height: 35px;
@@ -128,6 +131,7 @@
     }
     .single-service {
         margin-bottom: 30px;
+        text-align: center;
     }
     .col-sm-4:last-child .single-service {
         margin-bottom: 0;
